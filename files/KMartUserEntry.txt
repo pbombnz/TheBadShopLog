@@ -1,0 +1,18 @@
+admin,1601693119,K-Mart is the crappiest store ever. Their clothes are crap
+Delta,1401674161,K-Mart is the worst store I have ever been to. 1 
+Alpha,1401673161,K-Mart is the worst store I have ever been to. 2
+Beta,1401672161,K-Mart is the worst store I have ever been to. 3
+Beta,1401672161,K-Mart is the worst store I have ever been to. 4
+Beta,1401672161,K-Mart is the worst store I have ever been to. 5
+Beta,1401672161,K-Mart is the worst store I have ever been to. 6
+Charlie,1301672161,K-Mart is the worst store I have ever been to. 7
+Charlie,1201672161,K-Mart is the worst store I have ever been to. 8
+Charlie,1101672161,K-Mart is the worst store I have ever been to. 9
+Charlie,1101572161,K-Mart is the worst store I have ever been to. 10
+Charlie,1101372161,K-Mart is the worst store I have ever been to. 11
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 12
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 13
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 14
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 15
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 16
+Eddie,1001372161,K-Mart is the worst store I have ever been to. 17

@@ -1,0 +1,96 @@
+﻿/* Container Section */
+#container {
+    margin-top:2%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:2%;
+    box-shadow:0px 5px 20px #000;
+    width:80%;
+}
+
+/* Header Section */
+#header {
+    background-color:#5c0000;
+    text-align:center;
+    padding:20px;
+    border-bottom-style:ridge;
+    border-bottom-width:3px;
+    border-bottom-color:#808080;
+}
+#header table {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#header table tr td {
+    text-align:center;
+}
+
+/* Content Section */
+#content {
+    padding:20px;
+    background-color:#fff;
+}
+
+#content p {
+    font-family:Arial;
+    font-size:medium;
+    color:#000;
+}
+
+#content table {
+    border-style:dotted;
+    border-color:#9d0000;
+    width:80%;
+}
+#content table tr th {
+    font-family:'Arial Rounded MT';
+    font-weight:bold;
+    color:#9d0000;
+    text-shadow:2px 2px 8px #9d0000;
+}
+#content table tr td {
+    font-family:'Arial';
+    color:#000;
+}
+#content table tr td, th {
+    padding:10px;
+    border-style:solid;
+    border-width:2px;
+    border-color:#9d0000;
+}
+
+/* Foot Section */
+#footer {
+    width:100%;
+    text-align:center;
+    padding:5px 0px 5px 0px;
+    background-color:#9d0000;
+}
+#footer p {
+    color:#fff;
+    font-family:Arial;
+}
+
+/* Other (Usually Where Classes will be held) */
+
+body {
+    background-color:#f00;
+}
+
+h1, h2 {
+    font-family: 'Comic Sans MS';
+    color: #9d0000;
+    text-shadow:0px 0px 5px #f00;
+}
+
+.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+ol li, ul li {
+    font-family:Arial;
+    font-size:medium;
+    color:#000;
+}

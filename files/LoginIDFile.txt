@@ -1,0 +1,7 @@
+Alpha,,em@il.com,Adam Adamson,2
+Beta,password,em@il.com,Bettie Betterson,1
+Charlie,password,em@il.com,Curtis Cort,1
+Delta,password,em@il.com,Delta DeeDee,1
+Eddie,password,em@il.com,Edward Smith,1
+admin,admin,em@il.com,Admin Moderator,2
+PBomb,pass,pb@mb.com,pb,2
